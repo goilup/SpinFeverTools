@@ -9,3 +9,5 @@ sprites_to_sheet.py - Python script that takes all your sprites in a directory a
 waw_decrypt.py - Python script that converts .WAW to .WAV (requires xor_table.txt)
 
 waw_encrypt.py - Python script that converts .WAV to .WAW (requires xor_table.txt)
+
+cougarwav.py - Python script that converts COUGAR SD1/SD2/SD3.bin into wav, use --rate 16000 or --rate 22050 depending on the file. You can find these in "update"
